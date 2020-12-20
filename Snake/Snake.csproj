@@ -106,19 +106,40 @@
     <Resource Include="Resources\apple.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\body.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\fruit.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resources\head.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\snake.png" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\bonusSlow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\head.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\body.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\tail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\corner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\superfruit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\empty.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\mine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\Rock.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
